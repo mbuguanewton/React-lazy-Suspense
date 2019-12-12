@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### APP DESCRIPTION
+
+The documentation about the app will be availed shortly...
+==> in the mean while try out react lazy and suspense for code splitting and lazy loading components
